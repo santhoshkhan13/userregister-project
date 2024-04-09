@@ -1,0 +1,8 @@
+Task 1 :
+Register and login
+
+1. Name
+2. Mail
+3. Phone number
+4. Password
+5. Confirm password
